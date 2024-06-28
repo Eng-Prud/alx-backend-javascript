@@ -1,0 +1,27 @@
+{
+  "name": "0x01-ES6_promise",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Eng-Prud/alx-backend-javascript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Eng-Prud/alx-backend-javascript/issues"
+  },
+  "homepage": "https://github.com/Eng-Prud/alx-backend-javascript#readme",
+  "devDependencies": {
+    "jest": "^26.6.0",
+    "babel-jest": "^26.6.0",
+    "eslint": "^7.14.0",
+    "@babel/core": "^7.12.10",
+    "@babel/preset-env": "^7.12.11"
+  }
+}
